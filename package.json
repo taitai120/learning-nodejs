@@ -11,11 +11,15 @@
   "author": "Jonas Schmedtmann",
   "license": "ISC",
   "dependencies": {
+    "bcrypt": "^5.1.0",
     "dotenv": "^7.0.0",
     "express": "^4.16.4",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.21",
     "mongoose": "^6.7.1",
     "morgan": "^1.9.1",
     "slugify": "^1.6.5",
+    "swagger-ui-express": "^4.6.0",
     "validator": "^13.7.0"
   },
   "devDependencies": {
